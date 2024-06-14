@@ -1,0 +1,5 @@
+setup.py
+src/hydraulics_solver.egg-info/PKG-INFO
+src/hydraulics_solver.egg-info/SOURCES.txt
+src/hydraulics_solver.egg-info/dependency_links.txt
+src/hydraulics_solver.egg-info/top_level.txt
